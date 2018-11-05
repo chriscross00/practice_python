@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30267a0-d583-4b38-a642-5d7ef179a0ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10.list_overlap_comprehensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.check_primality_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.list_end.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.divisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.divisors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.list_overlap.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.list_overlap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.string_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.string_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.check_primality_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.check_primality_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,39 +18,41 @@
     <session id="-516451570">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="30" />
+          <entry key="md" value="2" />
+          <entry key="py" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="28" />
+          <entry key="Markdown" value="2" />
+          <entry key="Python" value="33" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="117" />
-          <entry key="py" value="5862" />
+          <entry key="py" value="6117" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="5501" />
+          <entry key="Python" value="5756" />
           <entry key="Scratch" value="478" />
         </counts>
       </usages-collector>
@@ -59,22 +60,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9.guessing_game_one.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11.check_primality_functions.py">
+        <entry file="file://$PROJECT_DIR$/12.list_end.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
-                <marker date="1541285201090" expanded="true" signature="152:157" ph="..." />
+                <marker date="1541391183284" expanded="true" signature="343:344" ph="..." />
+                <marker date="1541391183284" expanded="true" signature="343:348" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,6 +102,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
         <option value="$PROJECT_DIR$/4.divisors.py" />
         <option value="$PROJECT_DIR$/11.check_primality_functions.py" />
+        <option value="$PROJECT_DIR$/12.list_end.py" />
       </list>
     </option>
   </component>
@@ -140,7 +134,7 @@
   <component name="PropertiesComponent">
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="RSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,28 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11.check_primality_functions">
-    <configuration name="10.list_overlap_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice_py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10.list_overlap_comprehensions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.12.list_end">
     <configuration name="11.check_primality_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.guessing_game_one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.list_end" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +182,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.guessing_game_one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.list_end.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.divisors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.divisors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,19 +255,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.9.guessing_game_one" />
-      <item itemvalue="Python.10.list_overlap_comprehensions" />
       <item itemvalue="Python.scratch" />
       <item itemvalue="Python.scratch_1" />
       <item itemvalue="Python.11.check_primality_functions" />
+      <item itemvalue="Python.4.divisors" />
+      <item itemvalue="Python.12.list_end" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12.list_end" />
         <item itemvalue="Python.11.check_primality_functions" />
+        <item itemvalue="Python.4.divisors" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.10.list_overlap_comprehensions" />
-        <item itemvalue="Python.9.guessing_game_one" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +303,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11002604" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11002604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -327,7 +321,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info active="true" anchor="right" id="Python Console" order="5" visible="true" weight="0.35872397" />
+      <window_info anchor="right" id="Python Console" order="5" visible="true" weight="0.35872397" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -350,13 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.string_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -385,16 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <marker date="1541284105374" expanded="true" signature="77:82" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.list_overlap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -412,26 +389,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5.list_overlap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/9.guessing_game_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        <state relative-caret-position="409">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.string_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4.divisors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" lean-forward="true" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11.check_primality_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <marker date="1541285201090" expanded="true" signature="152:157" ph="..." />
+            <marker date="1541390382452" expanded="true" signature="147:152" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.list_end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <marker date="1541391183284" expanded="true" signature="343:344" ph="..." />
+            <marker date="1541391183284" expanded="true" signature="343:348" ph="..." />
           </folding>
         </state>
       </provider>
