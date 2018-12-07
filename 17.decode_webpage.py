@@ -3,6 +3,12 @@ New York Times homepage.'''
 
 
 import sys
-import requests
-import bs4
+import requests as rq
+from bs4 import BeautifulSoup as bs
 
+for i in soup.find_all('article'):
+    headline = article.h2.a.text
+    summary = article.find('div', class_='entry-content').p.text
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+    print(headline,summary,vid_src)
+    print()
