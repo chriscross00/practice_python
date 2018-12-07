@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/practice_py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/practice_py.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.decode_webpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.decode_webpage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,41 +17,44 @@
     <session id="-516451570">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="6" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="35" />
+          <entry key="py" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="33" />
-          <entry key="Scratch" value="2" />
+          <entry key="Python" value="43" />
+          <entry key="Scratch" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="117" />
-          <entry key="py" value="6117" />
+          <entry key="Python Console" value="711" />
+          <entry key="py" value="9033" />
           <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="23" />
-          <entry key="Python" value="5756" />
+          <entry key="Python" value="9266" />
           <entry key="Scratch" value="478" />
         </counts>
       </usages-collector>
@@ -68,14 +72,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.list_end.py">
+        <entry file="file://$PROJECT_DIR$/16.password_generator.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="285">
               <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+=======
+            <state relative-caret-position="493">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+              <folding>
+                <element signature="e#545#558#0" expanded="true" />
+                <marker date="1542221181713" expanded="true" signature="663:668" ph="..." />
+              </folding>
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11.check_primality_functions.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,11 +99,21 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9.guessing_game_one.py">
+        <entry file="file://$PROJECT_DIR$/17.decode_webpage.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="268">
               <caret line="57" column="51" lean-forward="true" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+=======
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#137#147#0" expanded="true" />
+              </folding>
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
             </state>
           </provider>
         </entry>
@@ -124,16 +148,29 @@
         <option value="$PROJECT_DIR$/4.divisors.py" />
         <option value="$PROJECT_DIR$/11.check_primality_functions.py" />
         <option value="$PROJECT_DIR$/12.list_end.py" />
+        <option value="$PROJECT_DIR$/13.fibonacci.py" />
+        <option value="$PROJECT_DIR$/14.list_remove_duplicates.py" />
+        <option value="$PROJECT_DIR$/15.reverse_word_order.py" />
+        <option value="$PROJECT_DIR$/16.password_generator.py" />
+        <option value="$PROJECT_DIR$/17.decode_webpage.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="1200" />
     <option name="y" value="314" />
     <option name="width" value="1920" />
     <option name="height" value="1042" />
+=======
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -155,7 +192,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$/venv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -170,8 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12.list_end">
-    <configuration name="11.check_primality_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.17.decode_webpage">
+    <configuration name="13.fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.check_primality_functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12.list_end" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14.list_remove_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,7 +243,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.list_end.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14.list_remove_duplicates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.divisors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15.reverse_word_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +264,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.divisors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15.reverse_word_order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16.password_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,11 +281,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16.password_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="17.decode_webpage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17.decode_webpage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,19 +316,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.scratch" />
-      <item itemvalue="Python.scratch_1" />
-      <item itemvalue="Python.11.check_primality_functions" />
-      <item itemvalue="Python.4.divisors" />
-      <item itemvalue="Python.12.list_end" />
+      <item itemvalue="Python.13.fibonacci" />
+      <item itemvalue="Python.14.list_remove_duplicates" />
+      <item itemvalue="Python.15.reverse_word_order" />
+      <item itemvalue="Python.16.password_generator" />
+      <item itemvalue="Python.17.decode_webpage" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.12.list_end" />
-        <item itemvalue="Python.11.check_primality_functions" />
-        <item itemvalue="Python.4.divisors" />
-        <item itemvalue="Python.scratch_1" />
-        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.17.decode_webpage" />
+        <item itemvalue="Python.16.password_generator" />
+        <item itemvalue="Python.15.reverse_word_order" />
+        <item itemvalue="Python.14.list_remove_duplicates" />
+        <item itemvalue="Python.13.fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -322,28 +361,39 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="1200" y="314" width="1920" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11099253" />
+=======
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10067114" />
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50065106" side_tool="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50130206" side_tool="true" weight="0.32417583" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49934897" weight="0.32554945" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="right" id="R Packages" order="0" />
       <window_info anchor="right" id="R Graphics" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Python Console" order="5" visible="true" weight="0.35859126" />
+=======
+      <window_info active="true" anchor="right" id="Python Console" order="5" visible="true" weight="0.5577181" />
+      <window_info anchor="right" id="Run" order="6" sideWeight="0.4986979" weight="0.42550334" />
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -390,12 +440,26 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
     <entry file="file://$PROJECT_DIR$/10.list_overlap_comprehensions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+=======
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
         </state>
       </provider>
     </entry>
@@ -426,6 +490,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+<<<<<<< HEAD
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.guessing_game_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="63" column="45" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
         </state>
       </provider>
     </entry>
@@ -436,10 +510,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9.guessing_game_one.py">
+    <entry file="file://$PROJECT_DIR$/10.list_overlap_comprehensions.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="268">
           <caret line="57" column="51" lean-forward="true" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+=======
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14.list_remove_duplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15.reverse_word_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16.password_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="e#545#558#0" expanded="true" />
+            <marker date="1542221181713" expanded="true" signature="663:668" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.decode_webpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#137#147#0" expanded="true" />
+          </folding>
+>>>>>>> 9ec1bb39aacdfed95539d493005da2f070541925
         </state>
       </provider>
     </entry>
