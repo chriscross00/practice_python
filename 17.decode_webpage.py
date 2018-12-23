@@ -4,6 +4,7 @@ all the article titles on the New York Times homepage.'''
 
 import sys
 import requests as rq
+<<<<<<< HEAD
 from bs4 import BeautifulSoup
 
 nyt = 'https://www.nytimes.com/'
@@ -35,3 +36,13 @@ print(all)
 
 
 print('done!')
+=======
+from bs4 import BeautifulSoup as bs
+
+for i in soup.find_all('article'):
+    headline = article.h2.a.text
+    summary = article.find('div', class_='entry-content').p.text
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+    print(headline,summary,vid_src)
+    print()
+>>>>>>> 42247ae8d71e2649405ab1584497359121688614
