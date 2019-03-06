@@ -36,7 +36,6 @@ print(all)
 
 
 print('done!')
-=======
 from bs4 import BeautifulSoup as bs
 
 for i in soup.find_all('article'):
@@ -45,4 +44,4 @@ for i in soup.find_all('article'):
     vid_src = article.find('iframe', class_='youtube-player')['src']
     print(headline,summary,vid_src)
     print()
->>>>>>> 42247ae8d71e2649405ab1584497359121688614
+
